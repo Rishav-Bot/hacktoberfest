@@ -1,3 +1,8 @@
+#### Name: [RISHAV GOSSAIN](https://github.com/Rishav-Bot)
+- Place: Kolkata, West Bengal, India
+- Bio: Final Year computer science undergrad
+- GitHub: [Rishav-Bot](https://github.com/Rishav-Bot)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
